@@ -15,3 +15,5 @@ use Rack::JSONBodyParser
 run ApplicationController
 use PlanetsController
 use SystemsController
+use UsersController
+use SessionsController

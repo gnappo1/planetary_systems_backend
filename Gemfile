@@ -15,6 +15,7 @@ gem 'tux'
 gem 'faker'
 gem 'rack-cors'
 gem 'rack-contrib'
+gem 'dotenv'
 # gem "tux"
 
 group :test do
